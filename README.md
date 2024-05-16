@@ -1,13 +1,13 @@
 #Introduction
 
-Hello! I'm a freelance DevOps engineer with a focus on building efficient CI/CD pipelines and scalable infrastructure. I thrive on automating processes and optimizing development workflows.
+Hello! I'm a freelance IT developer and I thrive on automating processes and optimizing development workflows.
 
 #Skills
 
-CI/CD: Jenkins, GitLab CI, GitHub Actions
-IaC: Terraform, Ansible
-Containers: Docker, Kubernetes
-Cloud: AWS, Azure
+CI/CD: GitLab CI, GitHub Actions
+
+Containers: Kubernetes
+
 proficent languages: java, html, PHP, CSS, JavaScript, c, c++ , python
 
 #Projects
