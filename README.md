@@ -3,20 +3,11 @@
 Hello! I'm a freelance IT developer and I thrive on automating processes and optimizing development workflows.
 
 #Skills
-
-CI/CD: GitLab CI, GitHub Actions
-
-Containers: Kubernetes
-
-proficent languages: java, html, PHP, CSS, JavaScript, c, c++ , python
-
-#Projects
-
-
+proficent languages: java, html, PHP, CSS, JavaScript, c, c++ , python,react,nodejs,kotlin
 
 #About Me
 
-As an intermediate-level DevOps practitioner, I bring hands-on experience to the table. Let's collaborate on your next project!
+ I bring hands-on experience to the table. Let's collaborate on your next project!
 
 #Connect
 
